@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+Code+Camp!; I'm+Md.+Ashikur+Rahman+Ashik;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Welcome+to+my+Code+Camp!;I'm+Md.+Ashikur+Rahman+Ashik;" alt="Typing SVG">
 </h1>
 
 <!-- Custom SVG Banner -->
