@@ -28,7 +28,7 @@
 - 🌱 I'm currently mastering **Blazor** and **.NET MAUI**
 - 👯 I'm looking to collaborate on **projects focusing on user experience and accessibility**
 - 💬 Ask me about **.NET, Angular, React, and full-stack development**
-- 🚀 I’m currently working on **Transport Management System**
+- 🚀 I’m currently working on **Medical Travel Management System**
 - ⚡ Fun fact: **I collect metro smart pass cards from around the world!**
 
 ## 🛠️ Tech Stack
