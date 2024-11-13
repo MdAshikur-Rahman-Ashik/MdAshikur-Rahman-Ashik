@@ -25,7 +25,7 @@
 ## 💫 About Me
 
 - 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently mastering **Blazor** and **.NET MAUI**
+- 🌱 I'm currently mastering   **.NET MAUI**
 - 👯 I'm looking to collaborate on **projects focusing on user experience and accessibility**
 - 💬 Ask me about **.NET, Angular, React, and full-stack development**
 - 🚀 I’m currently working on **Medical Travel Management System**
